@@ -19,6 +19,8 @@ Ao clicar no icone informativo, uma nova janela é apresentada com informações
 
 Também é apresentado o icone do GitHub, onde ao clicar o navegador padrão é iniciado e direcionado direto a este repositório:
 ![image](https://github.com/IAmVinicius/BuscarCep/assets/107006673/66ece6ab-fbe2-4471-9bb0-97e29460640c)
+![image](https://github.com/IAmVinicius/BuscarCep/assets/107006673/d51dc3d5-4f64-4af5-976f-c18b50cd634f)
+
 
 
 
