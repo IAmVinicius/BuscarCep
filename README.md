@@ -1,4 +1,19 @@
 # BuscarCep
+
+Especificações Técnicas Obrigatórias
+
+Aplicação simples que possibilite o usuario ocnsultar CEPs.
+
+Tecnologias utilizadas:
+
+JAVA;
+Spring;
+SQL;
+
+O que aprendi:
+
+Backend e Frontend + consumo de APIs;
+
 Basta digitar um Cep no campo CEP e clicar no botão "Buscar":
 
 ![image](https://github.com/IAmVinicius/BuscarCep/assets/107006673/deee587f-f1b8-4052-bbe7-31ec29d69c5c)
